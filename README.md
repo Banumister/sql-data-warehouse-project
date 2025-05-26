@@ -7,7 +7,13 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 In this Data Warehouse project i have preferred to use Medallion structure which contains layers BRONZE, SILVER AND GOLD.
 
+MEDALLION STRUCTURE
 
 ![image](https://github.com/user-attachments/assets/eb607def-106f-4b17-8d07-033e3bf95de6)
+
+HIGH LEVEL ARCHITECTURE:
+
+![image](https://github.com/user-attachments/assets/b03970b6-496d-41fa-8dad-0438f051083d)
+
 
 
